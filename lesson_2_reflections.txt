@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+To tell git to track this directory for changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is like a temporary testing platform for changes
