@@ -9,3 +9,14 @@ only add files related to the logical change into the staging area
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 we can discard that branch if it doesn't make sense or merge it if it works
+
+How do the diagrams help you visualize the branch structure?
+It helps in merging branches,etc if required
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+To show that it's different from the master branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It saves time to merge automatically when it's possible and when user intervention is needed
+then it makes sense to merge it manually. Otherwise it's too complicated for the machine to understand what
+we're thinking
